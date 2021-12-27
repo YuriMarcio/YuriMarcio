@@ -1,12 +1,16 @@
-# YuriGomes 
+# <img height="30"  src="https://img.icons8.com/nolan/64/ethernet-on.png"/> olá !! sejá bem vindo ao meu perfil 👨‍💻
+
+  * <img height="30" align="top" src="https://img.icons8.com/color/50/000000/stackoverflow.png"/> Desenvolvedor Full Stack 
+  * <img height="30" align="top" src="https://img.icons8.com/color/50/000000/motarboard.png"/>  Estudante de Engenharia de Software 
+  * <img height="30" align="top"  src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-certificate-awards-justicon-lineal-color-justicon.png"/> Mais de 6 certificados web developer 
 
 <div align="center">
   <a href="https:https://github.com/GomeS3K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomeS3K&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GomeS3K&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomeS3K&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- <h1>My Tools 🔧</h1>
+ <h1>My Tools <img height="50" align="top" src="https://img.icons8.com/color/50/000000/maintenance.png"/></h1>
 <div style="display:inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
