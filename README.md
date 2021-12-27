@@ -4,7 +4,7 @@
   * <img height="30" align="top" src="https://img.icons8.com/color/50/000000/motarboard.png"/>  Estudante de Engenharia de Software 
   * <img height="30" align="top"  src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-certificate-awards-justicon-lineal-color-justicon.png"/> Mais de 6 certificados web developer 
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https:https://github.com/GomeS3K">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GomeS3K&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomeS3K&layout=compact&langs_count=7&theme=dracula"/>
